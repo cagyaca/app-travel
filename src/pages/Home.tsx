@@ -52,13 +52,6 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Travel icons floating around */}
-      <div className="absolute inset-0 pointer-events-none">
-        <div className="absolute top-1/4 left-1/4 text-white text-2xl animate-bounce" style={{animationDelay: '0.5s'}}>🏝️</div>
-        <div className="absolute top-1/3 right-1/4 text-white text-2xl animate-pulse" style={{animationDelay: '1.5s'}}>🗺️</div>
-        <div className="absolute bottom-1/4 left-1/3 text-white text-2xl animate-bounce" style={{animationDelay: '2.5s'}}>🏔️</div>
-        <div className="absolute bottom-1/3 right-1/3 text-white text-2xl animate-pulse" style={{animationDelay: '3s'}}>🎒</div>
-      </div>
     </div>
   );
 }

@@ -229,7 +229,7 @@ export default function Register() {
               type="submit"
               className="w-full bg-gradient-to-r from-pink-500 to-rose-600 text-white py-3 px-4 rounded-lg font-semibold hover:from-pink-600 hover:to-rose-700 transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
-              Create Account 🚀
+              Create Account 🚀!
             </button>
           </div>
 
