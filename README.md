@@ -3,7 +3,7 @@
 TravelApp adalah aplikasi frontend sederhana untuk eksplorasi artikel dan manajemen autentikasi (Login & Register).  
 Proyek ini dibangun menggunakan React + TypeScript dengan styling modern menggunakan Tailwind CSS + PostCSS.
 
-** Project Structure**
+**Project Structure**
 
 Struktur folder utama:
 pages/
