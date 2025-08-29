@@ -29,7 +29,9 @@ pages/
 1. npm install
 2. npm install -D tailwindcss postcss autoprefixer
 3. npx tailwindcss init -p
-4. npm start
-   
+5. npm install @reduxjs/toolkit react-redux
+6. npm install axios
+7. npm start
+
 
 
